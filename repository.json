@@ -1,20 +1,4 @@
 {
-    "maingron_www": {
-    "id": "maingron_www",
-    "title": "Maingron.com",
-    "src": "https://maingron.com",
-    "icon": "https://maingron.com/favicon.png",
-    "tags": "maingron, internet",
-    "sandbox":0
-  },
-  "maingron_zelda": {
-    "id": "maingron_zelda",
-    "title": "Maingron Zelda - Demo",
-    "src": "https://maingron.com/maingronzelda_f/game_demo/index.html",
-    "icon": "https://maingron.com/projects/MainOS/server/repository_data/img/maingron_zelda.png",
-    "tags": "game",
-    "sandbox":1
-  },
   "maingron_clock": {
     "id": "maingron_clock",
     "title": "Custom Clock",
