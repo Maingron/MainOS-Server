@@ -2,4 +2,11 @@
     <FilesMatch "\.(txt|json)$">
         Header set Access-Control-Allow-Origin "*"
     </FilesMatch>
+
+    <FilesMatch "\.(gitignore|gitattributes|htaccess)$">
+    Deny from all
+</FilesMatch>
 </IfModule>
+
+RedirectMatch 403 /\.git
+
