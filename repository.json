@@ -21,6 +21,6 @@
     "src": "https://clock.maingron.com",
     "icon": "https://maingron.com/projects/MainOS/server/repository_data/img/maingron_clock.png",
     "tags": "clock, tool",
-    "sandbox":1
+    "sandbox":0
   }
 }
