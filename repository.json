@@ -6,5 +6,12 @@
     "icon": "https://maingron.com/projects/MainOS/server/repository_data/img/maingron_clock.png",
     "tags": "clock, tool",
     "sandbox":0
+  },
+  "unisearch": {
+    "id": "unisearch",
+    "title": "Unisearch",
+    "src": "https://unisearch.app",
+    "icon": "https://unisearch.app/img/logo.png",
+    "sandbox": 0
   }
 }
