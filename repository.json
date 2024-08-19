@@ -3,7 +3,7 @@
     "id": "maingron_clock",
     "title": "Custom Clock",
     "src": "https://clock.maingron.com",
-    "icon": "https://maingron.com/projects/MainOS/server/repository_data/img/maingron_clock.png",
+    "icon": "https://mainos.maingron.com/repo/repository_data/img/maingron_clock.png",
     "tags": "clock, tool",
     "sandbox":0
   },
