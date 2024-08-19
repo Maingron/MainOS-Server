@@ -10,3 +10,5 @@
 
 RedirectMatch 403 /\.git
 
+# Semi-temporary fix for "old" versions of mainos with old repo path. As of August 2024, this is still used in the current released MainOS version
+RedirectMatch 301 /projects/MainOS/server/(.*) https://mainos.maingron.com/repo/$1
