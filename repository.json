@@ -6,13 +6,5 @@
     "icon": "https://mainos.maingron.com/repo/repository_data/img/maingron_clock.png",
     "tags": "clock, tool",
     "sandbox":0
-  },
-  "testautopull": {
-    "id": "testautopull",
-    "title": "testautopull",
-    "src": "https://maingron.com",
-    "icon": "https://maingron.com/favicon.png",
-    "sandbox":0,
-    "devonly":1
   }
 }
