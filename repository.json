@@ -1,10 +1,18 @@
 {
-  "maingron_clock": {
-    "id": "maingron_clock",
-    "title": "Custom Clock",
-    "src": "https://clock.maingron.com",
-    "icon": "https://mainos.maingron.com/repo/repository_data/img/maingron_clock.png",
-    "tags": "clock, tool",
-    "sandbox":0
-  }
+	"maingron_clock": {
+		"id": "maingron_clock",
+		"title": "Custom Clock",
+		"src": "https://clock.maingron.com",
+		"icon": "https://mainos.maingron.com/repo/repository_data/img/maingron_clock.png",
+		"tags": "clock, tool",
+		"sandbox": 0
+	},
+	"funnyfunhouse": {
+		"id": "funnyfunhouse",
+		"title": "FunnyFunHouse.com",
+		"src": "https://funnyfunhouse.com",
+		"icon": "https://funnyfunhouse.com/favicon.svg",
+		"tags": "tool",
+		"sandbox": 0
+	}
 }
